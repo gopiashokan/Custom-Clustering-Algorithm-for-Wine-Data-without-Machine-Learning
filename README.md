@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This project demonstrates a custom-designed clustering algorithm developed without using pre-existing machine learning libraries. The main objective is to manually cluster the Wine dataset using only Pandas for data manipulation and NumPy for mathematical operations, showcasing the underlying mechanics of clustering. By manually calculating distances, centroids, and feature weights, the project aims to offer a clear, hands-on understanding of how clustering works at a fundamental level. The goal is to provide a deeper insight into data segmentation, helping users understand clustering principles through a step-by-step approach.
+This project focuses on developing a custom clustering algorithm to analyze wine data, providing an alternative to conventional machine learning techniques. The primary objective is to group wine samples based on their characteristics without relying on existing clustering algorithms. By employing mathematical concepts and leveraging NumPy for efficient calculations, we aim to uncover distinct patterns within the data. This approach enhances our understanding of the relationships among different wine samples, offering valuable insights into their grouping.
 
 <br />
 
