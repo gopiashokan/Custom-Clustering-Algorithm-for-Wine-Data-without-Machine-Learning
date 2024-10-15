@@ -264,7 +264,7 @@ def run_test():
     global m
 
     # Initialize object to load CSV input file
-    m = matrix('Data (2).csv')
+    m = matrix('Data.csv')
 
     # Loop through different Cluster values
     for k in range(2, 11):
