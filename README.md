@@ -1,1 +1,1 @@
-# Custom Algorithm for Wine Data Clustering Without Machine Learning
+# Custom Clustering Algorithm for Wine Data without Machine Learning
