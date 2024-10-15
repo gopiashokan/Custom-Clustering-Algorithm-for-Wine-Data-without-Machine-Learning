@@ -1,5 +1,7 @@
 # Custom Clustering Algorithm for Wine Data without Machine Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tFyEmCWP101maJa4ueL7iovtSl-PRSkE?usp=sharing)
+
 **Introduction**
 
 This project focuses on developing a custom clustering algorithm to analyze wine data, providing an alternative to conventional machine learning techniques. The primary objective is to group wine samples based on their characteristics without relying on existing clustering algorithms. By employing mathematical concepts and leveraging NumPy for efficient calculations, we aim to uncover distinct patterns within the data. This approach enhances our understanding of the relationships among different wine samples, offering valuable insights into their grouping.
