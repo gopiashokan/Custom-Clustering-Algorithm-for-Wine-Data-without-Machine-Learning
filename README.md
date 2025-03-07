@@ -1,4 +1,4 @@
-# Custom Clustering Algorithm for Wine Data without Machine Learning
+# Custom Clustering Algorithm without Machine Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tFyEmCWP101maJa4ueL7iovtSl-PRSkE?usp=sharing)
 
