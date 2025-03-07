@@ -24,6 +24,8 @@ This project focuses on developing a custom clustering algorithm to analyze wine
 - Python
 - Numpy
 - Pandas
+- Mathematical Modeling
+- Algorithm Development
 
 <br />
 
